@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'Public-Sans';
+	font-style: normal;
+	font-weight: 400;
+
+	src: local('Public-Sans'),
+		url('/fonts/PublicSans-Regular.woff2') format('woff2'),
+		url('/fonts/PublicSans-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Public-Sans';
+	font-style: normal;
+	font-weight: 700;
+
+	src: local('Public-Sans'), url('/fonts/PublicSans-Bold.woff2') format('woff2'),
+		url('/fonts/PublicSans-Bold.woff') format('woff');
+}
+
+body {
+	font-family: 'Public-Sans', 'Arial', sans-serif;
+	border-top: 4px solid #ed4763;
+}
+
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+/*!--------HEADER-------------------------------------*/
+.header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 50px 0;
+}
+
+.header__img {
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+.header__title {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+}
+
+.header__text {
+	font-size: 18px;
+	line-height: 28px;
+	text-transform: capitalize;
+	color: #101214;
+}
+/*!--------HEADER-END------------------------------------*/
