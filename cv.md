@@ -11,3 +11,17 @@
 - Discord: Nikita(@j1mboskek)
 
 ---
+
+## About myself:
+
+I am 21 years old. I want to learn Frontend-End. The university had an initial level of JavaScript, and I liked this direction there.
+
+---
+
+## Skills and Proficiency:
+
+- HTML5
+- CSS3(SCSS)
+- JavaScript Basics
+
+---
