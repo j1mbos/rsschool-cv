@@ -41,3 +41,13 @@ function multiply(a, b){
 Nothing yet…
 
 ---
+
+## Education and courses:
+
+1. JavaScript https://learn.javascript.ru/
+
+---
+
+## Language:
+
+English level - A1
