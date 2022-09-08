@@ -25,3 +25,19 @@ I am 21 years old. I want to learn Frontend-End. The university had an initial l
 - JavaScript Basics
 
 ---
+
+## Code example:
+
+```JavaScript
+function multiply(a, b){
+  return a * b
+}
+```
+
+---
+
+## Work experience:
+
+Nothing yet…
+
+---
